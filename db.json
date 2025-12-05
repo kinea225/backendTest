@@ -1,6 +1,8 @@
+[
  {
     id: "mock1",
     date : new Date().getTime()-1,
     content : "mock1",
     emotionId:1,
-}
+ },
+]
